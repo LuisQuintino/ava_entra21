@@ -61,6 +61,8 @@ A [Asana](https://asana.com/pt) é uma ferramenta que tem o objetivo de reunir t
 
 
 #### Fonte
-[Fonte 1](https://kanbanize.com/pt/recursos-kanban/guia-do-software-kanban)
-[Fonte 2](https://caetreinamentos.com.br/blog/ferramentas/ferramenta-kanban/)
-[Fonte 3](https://thedigitalprojectmanager.com/tools/kanbanize-overview/)
+[Guia do software Kanban](https://kanbanize.com/pt/recursos-kanban/guia-do-software-kanban)
+
+[Ferramenta Kanban](https://caetreinamentos.com.br/blog/ferramentas/ferramenta-kanban/)
+
+[Kanbanize overview](https://thedigitalprojectmanager.com/tools/kanbanize-overview/)
