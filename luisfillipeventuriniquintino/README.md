@@ -58,3 +58,9 @@ A [Asana](https://asana.com/pt) é uma ferramenta que tem o objetivo de reunir t
 - Lista de Minhas Tarefas e Modo Focado
 - Acompanhe tarefas e adicione seguidores
 - Veja as tarefas e prioridades dos membros da equipe
+
+
+#### Fonte
+[Fonte 1](https://kanbanize.com/pt/recursos-kanban/guia-do-software-kanban)
+[Fonte 2](https://caetreinamentos.com.br/blog/ferramentas/ferramenta-kanban/)
+[Fonte 3](https://thedigitalprojectmanager.com/tools/kanbanize-overview/)
