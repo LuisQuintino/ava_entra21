@@ -2,7 +2,7 @@
 
 ## Kanbanize
 
-Kanbanize é um software Kanban para  [Gestão ágil de projeto](https://thedigitalprojectmanager.com/agile-project-management/) que permite que seus usuários visualizem projetos, rastreiem o progresso e otimizem a eficiência do fluxo de trabalho, a fim de entregar valor mais rapidamente ao mercado. Construído com a escala em mente, o Kanbanize combina recursos ao estilo Kanban que visam ajudar as empresas a alcançar a transparência organizacional e acelerar a agilidade dos negócios.
+[Kanbanize](https://kanbanize.com/pt) é um software Kanban para  [Gestão ágil de projeto](https://thedigitalprojectmanager.com/agile-project-management/) que permite que seus usuários visualizem projetos, rastreiem o progresso e otimizem a eficiência do fluxo de trabalho, a fim de entregar valor mais rapidamente ao mercado. Construído com a escala em mente, o Kanbanize combina recursos ao estilo Kanban que visam ajudar as empresas a alcançar a transparência organizacional e acelerar a agilidade dos negócios.
 
 ### Principais Recursos
 
